@@ -38,7 +38,6 @@
 </div>
 
 ###
-<h3 align="center">₍^. .^₎⟆ My pet</h3>
 <div align="center">
   <img height="400" src="https://media.tenor.com/-BjTGPdDJNAAAAAj/cpp-cplusplus.gif"  />
 </div>
